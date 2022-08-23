@@ -222,6 +222,7 @@
 - com-lihaoyi/geny
 - com-lihaoyi/mainargs
 - com-lihaoyi/mill
+- com-lihaoyi/mill-scala-hello.g8
 - com-lihaoyi/requests-scala
 - com-lihaoyi/scalatags
 - com-lihaoyi/upickle
