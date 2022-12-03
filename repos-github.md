@@ -1495,3 +1495,10 @@
 - tailcallhq/zio-compose
 - ThatScalaGuy/ulid4cats
 - ThatScalaGuy/circe-jq
+- affinehealth/data_quality_framework
+- affinehealth/data_transformation
+- affinehealth/lookup_manager
+- affinehealth/platform_backend
+- affinehealth/platform-lib
+- affinehealth/ProviderData
+- affinehealth/spark-ingestion
