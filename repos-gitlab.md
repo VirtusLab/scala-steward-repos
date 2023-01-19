@@ -1,5 +1,7 @@
 - io.github.nafg/slick-migration-api
 - morgaroth/gitlab4s
+- mukhtar1227ali/mohd-steward
+- mukhtar1227ali/mukhtar-steward
 - tyoras/cards
 - valencik/sequoia
 - valencik/sillygraph
