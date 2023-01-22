@@ -1402,6 +1402,7 @@
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
 - vmunier/scalajs-scripts
+- Vyxal/Vyxal:version-3
 - waylayio/influxdb-scala
 - waylayio/kairosdb-scala
 - wehkamp/cakemix
