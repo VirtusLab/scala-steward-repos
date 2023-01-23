@@ -749,7 +749,7 @@
 - monix/newtypes
 - monksy/serialization-checker
 - msgpack/msgpack-java
-- mukhtar1227ali/Poker2
+- mukhtar1227ali/Poker_2
 - mvillafuertem/akka-zio
 - mvillafuertem/mdoc-modifier
 - mvillafuertem/scala
