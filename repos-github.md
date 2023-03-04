@@ -508,6 +508,10 @@
 - hipjim/scala-retry
 - hireproof/screening
 - hnaderi/edomata
+- hnaderi/edomata-example
+- hnaderi/lepus
+- hnaderi/sbt-k8s
+- hnaderi/scala-k8s
 - hntd187/spotify
 - holdenk/sparkProjectTemplate.g8
 - holdenk/spark-testing-base
