@@ -1444,6 +1444,7 @@
 - vigoo/simpp
 - VirtusLab/akka-serialization-helper
 - VirtusLab/avocADO
+- VirtusLab/besom
 - VirtusLab/coursier-m1
 - VirtusLab/ide-probe
 - VirtusLab/pekko-serialization-helper
