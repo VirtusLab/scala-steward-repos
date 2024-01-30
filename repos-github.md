@@ -712,6 +712,10 @@
 - lightbend/mima
 - lightbend/paradox
 - lightbend/sbt-paradox-apidoc
+- lightbend/sbt-paradox-dependencies
+- lightbend/sbt-paradox-lightbend-project-info
+- lightbend/sbt-paradox-project-info
+- lightbend/sbt-publish-rsync
 - lightbend/ssl-config
 - limansky/beanpuree
 - liquibase4s/liquibase4s
