@@ -300,6 +300,7 @@
 - dataswift/hat-she-functions
 - dataswift/SHE-functions-starter
 - dataswift/slick-postgres-generator-driver
+- dataunitylab/jsonoid-discovery
 - data-tools/big-data-types
 - davegurnell/bridges
 - davegurnell/unindent
