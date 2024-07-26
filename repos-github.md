@@ -514,7 +514,7 @@
 - gig-foundation/dmf-kit-scala
 - GlasslabGames/html.scala
 - GlasslabGames/nameBasedXml.scala
-- gmixa/scalacss
+- gmixa/scalacss-gmi
 - gnieh/diffson
 - gnieh/fs2-data
 - gnp/ident
