@@ -15,6 +15,7 @@
 - 7mind/sbtgen
 - aaronp/franz
 - abdolence/slack-morphism
+- ActianCorp/scala-uri
 - adzerk/apso
 - agourlay/cornichon
 - ahjohannessen/sec
