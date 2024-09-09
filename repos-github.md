@@ -571,7 +571,7 @@
 - majk-p/identicon4s
 - makiftutuncu/e
 - manocha-aman/wind-alerts
-- mariohuizar/stream-detector
+- mariohuizar/stream-detector:develop
 - MartinHH/scalacheck-derived
 - matsluni/aws-spi-akka-http
 - max-leuthaeuser/SCROLL
