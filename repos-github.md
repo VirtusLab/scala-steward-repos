@@ -410,7 +410,6 @@
 - INCATools/relation-graph
 - INCATools/whelk
 - informalsystems/apalache
-- ing-bank/baker
 - inoio/solrs
 - intracer/scalawiki
 - iRevive/fmq
