@@ -761,6 +761,7 @@
 - playframework/play-json:3.0.x
 - playframework/play-mailer
 - playframework/play-mailer:9.0.x
+- playframework/play-mailer:10.0.x
 - playframework/play-meta
 - playframework/play-samples
 - playframework/play-samples:2.9.x
