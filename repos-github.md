@@ -285,6 +285,7 @@
 - erikerlandson/coulomb:scala2
 - erikerlandson/coulomb:scala3
 - erikvanoosten/metrics-scala
+- esamson/atbp
 - esamson/better-xdg
 - esamson/remder
 - etorreborre/specs2
