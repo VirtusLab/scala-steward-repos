@@ -375,8 +375,6 @@
 - gfc-collective/gfc-util
 - gfc-collective/gfc-vavr
 - ghostdogpr/caliban
-- gnieh/diffson
-- gnieh/fs2-data
 - goodcover/scala-relay
 - goodcover/tagless-redux
 - grouzen/zio-apache-arrow
