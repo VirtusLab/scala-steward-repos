@@ -336,7 +336,6 @@
 - felher/laminouter
 - felher/sainte-lague
 - felher/scalajs-only.g8
-- felipebonezi/play-ground
 - finagle/finagle-mysql-shapes
 - finagle/finch
 - finos/morphir
