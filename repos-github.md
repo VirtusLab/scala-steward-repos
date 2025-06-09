@@ -1161,6 +1161,7 @@
 - VirtusLab/ide-probe
 - VirtusLab/java-class-name
 - VirtusLab/lightweight-spark-distrib
+- VirtusLab/no-crc32-zip-input-stream
 - VirtusLab/pekko-serialization-helper
 - VirtusLab/scala-cli
 - VirtusLab/scala-cli-signing
