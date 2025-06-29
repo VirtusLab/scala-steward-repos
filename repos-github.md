@@ -101,6 +101,7 @@
 - bazeltools/bsp4bazel
 - bbarker/diz
 - bcarter97/id-generator
+- bdmendes/smockito
 - benkio/sBots
 - betagouv/aplus
 - Billzabob/ForDeckmacia
