@@ -14,6 +14,7 @@
 - aaronp/franz
 - abdolence/slack-morphism
 - ActianCorp/scala-uri
+- adambridge/embedded-kafka
 - adzerk/apso
 - agourlay/cornichon
 - ahjohannessen/sec
