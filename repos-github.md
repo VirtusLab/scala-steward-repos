@@ -15,6 +15,7 @@
 - abdolence/slack-morphism
 - ActianCorp/scala-uri
 - adzerk/apso
+- aephyr-life/aephyr-dev
 - agourlay/cornichon
 - ahjohannessen/sec
 - ahjohannessen/unum
