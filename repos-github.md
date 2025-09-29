@@ -222,6 +222,7 @@
 - dancewithheart/zio-scala3-quickstart.g8
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
+- databricks/sjsonnet
 - datadog4s/datadog4s
 - datadog4s/datadog4s:series/cats-effect2
 - dataswift/HAT2.0
