@@ -85,6 +85,7 @@
 - augustjune/canoe
 - av8data/add_transformers
 - avast/grpc-json-bridge
+- avast/metrics
 - avast/scala-server-toolkit
 - avast/slog4s
 - avdv/play-json-refined
