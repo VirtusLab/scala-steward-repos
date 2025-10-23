@@ -66,6 +66,7 @@
 - an-tex/sc8s
 - apache/daffodil
 - apache/daffodil-sbt
+- apache/daffodil-vscode
 - apache/incubator-nlpcraft
 - apalache-mc/apalache
 - apimorphism/telegramium
