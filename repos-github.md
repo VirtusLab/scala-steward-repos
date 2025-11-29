@@ -840,6 +840,7 @@
 - Ragazoor/typed-future
 - rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
+- reactivecore/datacomparison
 - reactivecore/kreuzberg
 - reactivecore/usql
 - ReactiveMongo/Play-ReactiveMongo
