@@ -360,8 +360,6 @@
 - flyway/flyway-play
 - fp-in-bo/jms4s
 - fp-tower/foundations
-- frawa/inline-files
-- frawa/typed-json
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
 - fs2-blobstore/fs2-blobstore
