@@ -371,6 +371,7 @@
 - fun-stack/example
 - fun-stack/local-env 
 - fun-stack/sdk-scala
+- gabrieljones/ScaLaMatrixRain
 - gekomad/itto-csv
 - geneontology/gaferencer
 - getkyo/kyo
