@@ -1093,6 +1093,7 @@
 - tailcallhq/zio-compose
 - takapi327/ldbc
 - tanishiking/semanticdb-for-scala3
+- target/data-validator
 - teamclairvoyant/restonomer:staging
 - tersesystems/blindsight
 - testcontainers/testcontainers-scala
