@@ -403,6 +403,7 @@
 - h8io/sbt-classifiers
 - h8io/sbt-scoverage-summary
 - h8io/stages
+- h8io/xi
 - hablapps/doric
 - hagay3/skuber
 - halotukozak/alpaca
