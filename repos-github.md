@@ -397,6 +397,12 @@
 - guardrail-dev/guardrail-sample-sbt-http4s
 - guardrail-dev/sbt-guardrail
 - gumdrop/quizleague
+- h8io/cfg
+- h8io/reflect
+- h8io/sbt-dependencies
+- h8io/sbt-classifiers
+- h8io/sbt-scoverage-summary
+- h8io/stages
 - hablapps/doric
 - hagay3/skuber
 - halotukozak/alpaca
