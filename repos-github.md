@@ -363,8 +363,6 @@
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
 - fs2-blobstore/fs2-blobstore
-- fthomas/base.g8
-- fthomas/fs2-cron
 - fthomas/refined
 - ft-scalac/zio-dynamodb-scala3-quickstart.g8
 - fullfacing/keycloak4s
