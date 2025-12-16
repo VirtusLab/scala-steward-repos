@@ -1269,13 +1269,12 @@
 - zio/zio-nio
 - zio/zio-openai
 - zio/zio-parser
-- zio/zio-process
 - zio/zio-profiling
 - zio/zio-project-seed.g8
 - zio/zio-s3
 - zio/zio-sql
 - zio/zio-sqs
-- zio/zio-test-intellij
+- zio/zio-test-iemntellij
 - ZookLabs/zooklabs
 - zouzias/spark-hello-world
 - zouzias/spark-lucenerdd
