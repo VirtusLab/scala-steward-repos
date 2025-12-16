@@ -1269,7 +1269,6 @@
 - zio/zio-nio
 - zio/zio-openai
 - zio/zio-parser
-- zio/zio-process
 - zio/zio-profiling
 - zio/zio-project-seed.g8
 - zio/zio-s3
