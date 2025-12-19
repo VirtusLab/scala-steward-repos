@@ -129,7 +129,6 @@
 - broadinstitute/poolq
 - broij/zarrow
 - brsyuksel/xurl
-- buildo/retro
 - buntec/ff4s
 - buntec/scala-js-snabbdom
 - Bunyod/PracticalFPinScala
