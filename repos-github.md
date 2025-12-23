@@ -1213,6 +1213,7 @@
 - webjars/sample-play2
 - webjars/webjars
 - webjars/webjars-file-service
+- webjars/webjars-play:3.0.x
 - webjars/webjars-play
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
