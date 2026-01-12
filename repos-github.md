@@ -1063,6 +1063,7 @@
 - slick/slick-plainsql
 - slick/slick-testkit-example
 - sloshy/fs2-es
+- softwaremill/sttp-ai
 - soundcloud/twinagle
 - sovedus/fs2-http-proxy
 - sovedus/fs2-socks5
