@@ -83,6 +83,8 @@
 - apache/pekko-persistence-r2dbc
 - apache/pekko-platform-guide
 - apache/pekko-projection
+- apache/pekko-quickstart-java.g8
+- apache/pekko-quickstart-scala.g8
 - apache/pekko-sbt-paradox
 - apache/pekko-site
 - apalache-mc/apalache
