@@ -67,7 +67,6 @@
 - apache/daffodil
 - apache/daffodil-sbt
 - apache/daffodil-vscode
-- apache/incubator-nlpcraft
 - apache/pekko
 - apache/pekko-connectors
 - apache/pekko-connectors-kafka
