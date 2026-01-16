@@ -968,6 +968,7 @@
 - ScalaConsultants/zio-scala2-quickstart.g8
 - ScalaConsultants/zio-scala3-quickstart.g8
 - ScalaConsultants/zio-slick-interop
+- scalacenter/sbt-missinglink
 - scalalandio/chimney
 - scalalandio/chimney-macro-commons
 - scalalandio/enumz
