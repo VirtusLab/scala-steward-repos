@@ -1063,7 +1063,6 @@
 - slick/slick-multidb
 - slick/slick-plainsql
 - slick/slick-testkit-example
-- sloshy/fs2-es
 - soundcloud/twinagle
 - sovedus/fs2-http-proxy
 - sovedus/fs2-socks5
