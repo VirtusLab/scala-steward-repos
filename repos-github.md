@@ -79,6 +79,7 @@
 - apache/pekko-http-quickstart-scala.g8
 - apache/pekko-management
 - apache/pekko-persistence-cassandra
+- apache/pekko-persistence-dynamodb
 - apache/pekko-persistence-jdbc
 - apache/pekko-persistence-r2dbc
 - apache/pekko-platform-guide
