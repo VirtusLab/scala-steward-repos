@@ -1267,7 +1267,6 @@
 - yurizhuravel/kitty
 - yurizhuravel/simple-royalties-api
 - zainab-ali/aquascape
-- zeal18/zio-mongodb
 - zengularity/benji
 - zio/caliban-deriving
 - zio/interop-guava
