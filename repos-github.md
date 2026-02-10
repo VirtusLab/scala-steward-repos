@@ -152,7 +152,10 @@
 - buntec/ff4s
 - buntec/scala-js-snabbdom
 - Bunyod/PracticalFPinScala
+- business4s/chatOps4s
 - business4s/decisions4s
+- business4s/domainDocs4s
+- business4s/forms4s
 - business4s/workflows4s
 - butcherless/incubator
 - butcherless/scala
