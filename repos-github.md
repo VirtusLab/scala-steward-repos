@@ -46,6 +46,7 @@
 - AlexITC/chrome-scalajs-template
 - AlexITC/playsonify
 - AlexITC/scala-js-chrome
+- Algebrazebra/slick-duckdb
 - almibe/ligature-scala
 - almond-sh/almond
 - alonsodomin/cron4s
