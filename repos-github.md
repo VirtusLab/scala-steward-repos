@@ -1207,9 +1207,9 @@
 - vigoo/simpp
 - VirtusLab/akka-serialization-helper
 - VirtusLab/avocADO
-- VirtusLab/coursier-m1
 - VirtusLab/ide-probe
 - VirtusLab/java-class-name
+- VirtusLab/libsodiumjni
 - VirtusLab/lightweight-spark-distrib
 - VirtusLab/no-crc32-zip-input-stream
 - VirtusLab/pekko-serialization-helper
