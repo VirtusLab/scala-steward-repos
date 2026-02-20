@@ -529,6 +529,7 @@
 - kubukoz/stretch-the-kin
 - kwark/play-refined
 - kwark/slick-refined
+- L7R7/loc-counter
 - lachezar/zio-scala-3-project.g8
 - lambdaworks/scountries
 - lambdaworks/scurl-detector
