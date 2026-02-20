@@ -32,7 +32,6 @@
 - akka/alpakka-kafka
 - albuch/sbt-dependency-check
 - AleGlowa/zio-twitter
-- alexarchambault/ammonite-runner
 - alexarchambault/ammonite-spark
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
