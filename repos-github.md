@@ -607,6 +607,7 @@
 - mariohuizar/stream-detector:develop
 - MartinHH/scalacheck-derived
 - MateuszKubuszok/hearth
+- MateuszKubuszok/kindlings
 - matsluni/aws-spi-akka-http
 - max-leuthaeuser/SCROLL
 - mbuzdalov/data-slicer
