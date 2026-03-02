@@ -651,7 +651,6 @@
 - monix/newtypes
 - mox692/git-bench4s
 - mox692/scala-cross-compile-multi-platform.g8
-- mpollmeier/scala-repl-pp
 - msgpack/msgpack-java
 - mukhtar1227ali/Poker_2
 - mvillafuertem/scala
