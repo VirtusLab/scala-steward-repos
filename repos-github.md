@@ -421,6 +421,7 @@
 - hablapps/doric
 - hagay3/skuber
 - halotukozak/alpaca
+- halotukozak/made
 - henricook/cryptoutils
 - hipjim/scala-retry
 - hnaderi/edomata
