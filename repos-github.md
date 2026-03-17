@@ -1178,7 +1178,6 @@
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
-- typelevel/doobie
 - typelevel/fabric
 - ua-parser/uap-scala
 - UdashFramework/udash-core
