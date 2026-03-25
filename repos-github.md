@@ -743,6 +743,7 @@
 - Philippus/base64-fork
 - Philippus/between
 - Philippus/bump
+- Philippus/cakemix
 - Philippus/elastic4s
 - Philippus/elastic4s:series/7.x
 - Philippus/elastic4s:series/8.x
@@ -1239,7 +1240,6 @@
 - webjars/webjars-file-service
 - webjars/webjars-play
 - webjars/webjars-play:3.0.x
-- wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
 - weso/shaclex
 - weso/shacl-s
