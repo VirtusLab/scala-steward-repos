@@ -406,6 +406,8 @@
 - gfc-collective/gfc-vavr
 - ghelouis/moviequizio
 - ghostdogpr/caliban
+- ghostdogpr/proteus
+- ghostdogpr/purelogic
 - gnieh/diffson
 - gnieh/fs2-data
 - goodcover/fdb-client
