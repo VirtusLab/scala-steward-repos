@@ -112,6 +112,7 @@
 - avdv/play-json-refined
 - avdv/scalals
 - AVSystem/intellij-hocon
+- AVSystem/monix
 - AVSystem/scala-commons
 - AVSystem/scex
 - azavea/franklin
