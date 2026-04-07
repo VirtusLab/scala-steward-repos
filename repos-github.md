@@ -357,8 +357,6 @@
 - evolution-gaming/stracer
 - evolution-gaming/throttler
 - Facsimiler/facsimile
-- fd4s/fs2-kafka:series/3.x
-- fd4s/vulcan
 - fdietze/bench
 - fdietze/colorado
 - fdietze/flatland
