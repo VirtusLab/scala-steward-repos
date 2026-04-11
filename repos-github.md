@@ -847,6 +847,7 @@
 - polentino/redacted
 - polyvariant/better-tostring
 - polyvariant/colorize-scala
+- polyvariant/respectfully
 - polyvariant/smithy4s-bsp
 - polyvariant/smithy-trait-codegen-scala
 - polyvariant/sttp-oauth2
