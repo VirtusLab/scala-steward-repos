@@ -455,6 +455,7 @@
 - jamesward/easyracer
 - jamesward/javadoccentral
 - jamesward/play-auto-refresh
+- jamesward/zio-http-mcp
 - jamesward/zio-mavencentral
 - janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
