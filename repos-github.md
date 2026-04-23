@@ -1206,6 +1206,7 @@
 - vigoo/simpp
 - VirtusLab/akka-serialization-helper
 - VirtusLab/avocADO
+- VirtusLab/cellar
 - VirtusLab/ide-probe
 - VirtusLab/java-class-name
 - VirtusLab/libsodiumjni
