@@ -380,11 +380,11 @@
 - fthomas/refined
 - ft-scalac/zio-dynamodb-scala3-quickstart.g8
 - fullfacing/keycloak4s
+- funfix/continuations4s
+- funfix/database
 - fun-stack/example
 - fun-stack/local-env 
 - fun-stack/sdk-scala
-- funfix/continuations4s
-- funfix/database
 - gabrieljones/ScaLaMatrixRain
 - gekomad/itto-csv
 - geneontology/gaferencer
