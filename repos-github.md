@@ -383,6 +383,8 @@
 - fun-stack/example
 - fun-stack/local-env 
 - fun-stack/sdk-scala
+- funfix/continuations4s
+- funfix/database
 - gabrieljones/ScaLaMatrixRain
 - gekomad/itto-csv
 - geneontology/gaferencer
@@ -642,9 +644,7 @@
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molarmanful/sclin
-- monix/monix-bio
-- monix/monix:series/3.x
-- monix/monix:series/4.x
+- monix/monix
 - monix/newtypes
 - mox692/git-bench4s
 - mox692/scala-cross-compile-multi-platform.g8
