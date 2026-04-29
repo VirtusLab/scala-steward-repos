@@ -644,7 +644,7 @@
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molarmanful/sclin
-- monix/monix:main
+- monix/monix
 - monix/newtypes
 - mox692/git-bench4s
 - mox692/scala-cross-compile-multi-platform.g8
