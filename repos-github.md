@@ -599,6 +599,7 @@
 - lucproglangcourse/primenumbers-http4s-scala
 - m2-oss/calypso
 - macro-peg/macro_peg
+- MAIF/izanami
 - makiftutuncu/e
 - mariohuizar/stream-detector:develop
 - MartinHH/scalacheck-derived
