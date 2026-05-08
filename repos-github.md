@@ -1061,6 +1061,8 @@
 - siriusxm/snapshot4s
 - sirthias/borer
 - sirthias/spliff
+- skillsjars/skillsjars
+- skillsjars/skillsjars-sbt-plugin
 - sksamuel/avro4s
 - slack-scala-client/slack-scala-client
 - Slakah/slakah.github.io
