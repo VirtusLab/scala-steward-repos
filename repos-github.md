@@ -709,6 +709,7 @@
 - NthPortal/spaghetti
 - NthPortal/v
 - ocadotechnology/pass4s
+- oluies/scala-hotwire
 - OpenOlitor/openolitor-server
 - openzipkin/zipkin-finagle
 - open-electrons/open-electrons-templates
