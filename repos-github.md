@@ -844,7 +844,7 @@
 - polyvariant/colorize-scala
 - polyvariant/respectfully
 - polyvariant/smithy4s-bsp
-- polyvariant/smithy-trait-codegen-scala
+- polyvariant/smithy-scala-tools
 - polyvariant/smithy-transformations
 - polyvariant/sttp-oauth2
 - ppurang/abctemplates
