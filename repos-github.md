@@ -434,6 +434,7 @@
 - igor-vovk/connect-rpc-scala
 - ikhoon/scalapb-reactor
 - INCATools/boomer
+- INCATools/dosdp-tools
 - INCATools/relation-graph
 - INCATools/whelk
 - ing-bank/baker
