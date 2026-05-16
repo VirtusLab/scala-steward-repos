@@ -605,6 +605,9 @@
 - makiftutuncu/e
 - mariohuizar/stream-detector:develop
 - MartinHH/scalacheck-derived
+- matejcerny/pgmq4s
+- matejcerny/pgmq-admin
+- matejcerny/sbt-config
 - MateuszKubuszok/hearth
 - MateuszKubuszok/kindlings
 - matsluni/aws-spi-akka-http
