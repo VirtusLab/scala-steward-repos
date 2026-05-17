@@ -684,7 +684,6 @@
 - nevillelyh/shapeless-datatype
 - nightscape/dataframe-io
 - nightscape/spark-excel
-- nikitaDanilenko/foodie
 - nikolaiser/biser
 - nivanov/cosplay
 - nivox/fs2-backpressure-sensor
