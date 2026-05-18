@@ -270,6 +270,7 @@
 - disneystreaming/smithy4s
 - disneystreaming/smithy4s.g8
 - disneystreaming/smithy-translate
+- dnpm-dip/backend-core
 - domino-osgi/domino-java
 - doriordan/skuber
 - doubleloop-io/applied-fp-workshop-scala
