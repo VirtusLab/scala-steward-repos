@@ -373,8 +373,6 @@
 - fthomas/refined
 - ft-scalac/zio-dynamodb-scala3-quickstart.g8
 - fullfacing/keycloak4s
-- funfix/continuations4s
-- funfix/database
 - fun-stack/example
 - fun-stack/local-env 
 - fun-stack/sdk-scala
@@ -641,8 +639,6 @@
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molarmanful/sclin
-- monix/monix
-- monix/newtypes
 - mox692/git-bench4s
 - mox692/scala-cross-compile-multi-platform.g8
 - msgpack/msgpack-java
