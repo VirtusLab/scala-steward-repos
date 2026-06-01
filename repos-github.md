@@ -613,8 +613,6 @@
 - matejcerny/pgmq4s
 - matejcerny/pgmq-admin
 - matejcerny/sbt-config
-- MateuszKubuszok/hearth
-- MateuszKubuszok/kindlings
 - matsluni/aws-spi-akka-http
 - max-leuthaeuser/SCROLL
 - mbuzdalov/data-slicer
