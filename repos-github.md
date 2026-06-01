@@ -521,8 +521,8 @@
 - kubuszok/kindlings
 - kubuszok/lls
 - kubuszok/multiarch-scala
-- kubuszok/re-scale
 - kubuszok/refined-compat
+- kubuszok/re-scale
 - kubuszok/sbt-kubuszok
 - kubuszok/scala-newtype-compat
 - kubuszok/scala-sax-parser
