@@ -985,6 +985,7 @@
 - scalacenter/sbt-scalafix-example
 - scalacenter/sbt-version-policy
 - scalacenter/scala3-migrate
+- scalacenter/scalac-profiling
 - scalacenter/scaladex
 - scalacenter/scalafix
 - scalacenter/scalafix.g8
@@ -992,7 +993,6 @@
 - scalacenter/scalajs-bundler
 - scalacenter/scala-debug-adapter
 - scalacenter/scastie
-- scalacenter/scalac-profiling
 - ScalaConsultants/mesmer
 - ScalaConsultants/zio-dotty-quickstart.g8
 - ScalaConsultants/zio-scala2-quickstart.g8
