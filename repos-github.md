@@ -1059,6 +1059,7 @@
 - SethTisue/adventofcode
 - SethTisue/Project-Euler
 - shadaj/slinky
+- shipreq/shipreq
 - shopstic/chopsticks
 - sideeffffect/liquibase-doobie
 - sideeffffect/sbt-decent-scala
