@@ -840,6 +840,7 @@
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
 - polentino/redacted
+- polyvariant/sbt-scala-dotfiles
 - polyvariant/better-tostring
 - polyvariant/colorize-scala
 - polyvariant/respectfully
