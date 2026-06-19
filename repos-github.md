@@ -393,6 +393,7 @@
 - ghostdogpr/caliban
 - ghostdogpr/proteus
 - ghostdogpr/purelogic
+- ghostdogpr/sage
 - gnieh/diffson
 - gnieh/fs2-data
 - goodcover/fdb-client
