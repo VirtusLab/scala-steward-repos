@@ -855,6 +855,7 @@
 - precog/fs2-ssh
 - precog/sbt-precog
 - profunktor/fs2-rabbit
+- ProjectSidewalk/SidewalkWebpage
 - proteinevolution/Toolkit
 - pstutz/syncodia
 - pureconfig/pureconfig
