@@ -262,6 +262,7 @@
 - debiki/talkyard
 - delimobil/cabbit
 - DFiantHDL/DFHDL
+- dfiantworks/scalapptainer
 - dieproht/matr
 - dieproht/molly
 - dimitarg/weaver-test-extra
