@@ -573,7 +573,7 @@
 - lichess-org/lila-search
 - lichess-org/lila-ws
 - lichess-org/playframework-lila
-- lichess-org/playframework-lila:scala-2
+- lichess-org/playframework-lila:scala2
 - lichess-org/scalachess
 - lichess-org/scalalib
 - lightbend-labs/benchdb
