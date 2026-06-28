@@ -904,6 +904,7 @@
 - RustedBones/pekko-http-scalapb
 - RustedBones/scout
 - RustedBones/taxonomy
+- rzk91/flight-database
 - s5bug/squirrel-explorer
 - sageserpent-open/americium
 - sageserpent-open/kineticMerge
