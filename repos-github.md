@@ -691,6 +691,7 @@
 - nMoncho/helenus
 - nMoncho/helenus3
 - nMoncho/sbt-dependency-check
+- nMoncho/sbt-osv
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
 - note/dhallj-magnolia
