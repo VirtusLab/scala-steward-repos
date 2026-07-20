@@ -863,7 +863,7 @@
 - quafadas/dedav4s
 - quafadas/scautable
 - raboof/sbt-reproducible-builds
-- Ragazoor/typed-future
+- Ragazoor/task
 - rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
 - reactivecore/datacomparison
