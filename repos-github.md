@@ -1224,6 +1224,7 @@
 - unfiltered/unfiltered
 - univalence/zio-notion
 - univalence/zio-spark
+- unum-io/tyda
 - uptane/director
 - uptane/libats
 - uptane/ota-tuf
