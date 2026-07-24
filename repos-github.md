@@ -172,6 +172,7 @@
 - cchantep/acolyte
 - cchantep/alohura
 - cchantep/foorgol
+- cchantep/jinbe
 - cchantep/sbt-hl-compiler
 - channingwalton/http4sWS
 - chenharryhua/nanjin
@@ -1303,7 +1304,6 @@
 - yurizhuravel/kitty
 - yurizhuravel/simple-royalties-api
 - zainab-ali/aquascape
-- zengularity/benji
 - zio/caliban-deriving
 - zio/interop-guava
 - zio/interop-monix
