@@ -13,8 +13,9 @@ jobs:
       - name: checkout fork
         uses: actions/checkout@v6
         with:
-          repo: ${{ github.event.pull_request.head.repo.full_name }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.sha }}
+          allow-unsafe-pr-checkout: true
       - name: copy fork repos-*.md
         run: |
           mkdir -p /tmp/fork
