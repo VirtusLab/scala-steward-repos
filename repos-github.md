@@ -1263,6 +1263,7 @@
 - vladimirlogachev/page-title-reader-microservice
 - vladimirlogachev/transitive-closure
 - vlovgr/ciris
+- vlovgr/jots
 - vmunier/akka-http-scalajs.g8
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
