@@ -841,8 +841,10 @@
 - polyvariant/respectfully
 - polyvariant/sbt-scala-dotfiles
 - polyvariant/smithy4s-bsp
+- polyvariant/smithy4s-ndjson
 - polyvariant/smithy-scala-tools
 - polyvariant/smithy-transformations
+- polyvariant/smithy-ts-codegen
 - polyvariant/sttp-oauth2
 - ppurang/abctemplates
 - ppurang/asynch
