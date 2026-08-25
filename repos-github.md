@@ -337,6 +337,7 @@
 - evolution-gaming/kafka-flow
 - evolution-gaming/kafka-journal
 - evolution-gaming/kafka-launcher
+- evolution-gaming/nats-effect
 - evolution-gaming/pekko-extension
 - evolution-gaming/pubsub
 - evolution-gaming/random
