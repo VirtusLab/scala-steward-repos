@@ -1084,7 +1084,6 @@
 - scodec/scodec
 - scodec/scodec-bits
 - ScoreUnder/canti-bot
-- scoutingkapelle/bamboesmanager
 - scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
 - scoverage/scalac-scoverage-plugin
