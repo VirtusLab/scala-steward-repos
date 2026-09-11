@@ -1093,8 +1093,6 @@
 - seblm/sbt-jgiven-scalatest-reporter
 - seblm/seblm-meals
 - senia-psm/zio-test-akka-http
-- sentenza/cats-http4s-crypto
-- sentenza/scala-algorithms
 - seroperson/zio-http-pac4j
 - SethTisue/adventofcode
 - SethTisue/Project-Euler
