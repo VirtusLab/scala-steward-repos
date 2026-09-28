@@ -965,6 +965,7 @@
 - sbt/sbt-rjs
 - sbt/sbt-sassify
 - sbt/sbt-sbom
+- sbt/sbt-slick-codegen
 - sbt/sbt-stylus
 - sbt/sbt-uglify
 - sbt/sbt-unidoc
