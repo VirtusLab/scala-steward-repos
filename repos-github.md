@@ -839,6 +839,7 @@
 - polentino/redacted
 - polyvariant/better-tostring
 - polyvariant/colorize-scala
+- polyvariant/jev4s
 - polyvariant/respectfully
 - polyvariant/sbt-scala-dotfiles
 - polyvariant/smithy4s-bsp
@@ -847,6 +848,7 @@
 - polyvariant/smithy-transformations
 - polyvariant/smithy-ts-codegen
 - polyvariant/sttp-oauth2
+- polyvariant/webauthn4s
 - ppurang/abctemplates
 - ppurang/asynch
 - precog/fs2-ssh
