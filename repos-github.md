@@ -593,6 +593,7 @@
 - lqhuang/watcher
 - lsug/lsug-website
 - ltbs/uniform-scala
+- lucproglangcourse/inoxcal-scala
 - lucproglangcourse/primenumbers-http4s-scala
 - m2-oss/calypso
 - macro-peg/macro_peg
