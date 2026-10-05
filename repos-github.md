@@ -326,8 +326,8 @@
 - evolution-gaming/akka-http-documenteddsl
 - evolution-gaming/akka-http-play-json
 - evolution-gaming/akka-serialization
+- evolution-gaming/akka-to-pekko-adapter
 - evolution-gaming/akka-tools
-- evolution-gaming/cassandra-launcher
 - evolution-gaming/cassandra-sync
 - evolution-gaming/cats-helper
 - evolution-gaming/conhub
@@ -336,14 +336,17 @@
 - evolution-gaming/json-partial-update
 - evolution-gaming/kafka-flow
 - evolution-gaming/kafka-journal
-- evolution-gaming/kafka-launcher
+- evolution-gaming/metered-scaffeine
+- evolution-gaming/metric-tools
 - evolution-gaming/nats-effect
+- evolution-gaming/patch
 - evolution-gaming/pekko-extension
+- evolution-gaming/play-json-binary-compat-guard
+- evolution-gaming/play-json-tools
 - evolution-gaming/pubsub
 - evolution-gaming/random
 - evolution-gaming/resource-pool
 - evolution-gaming/retry
-- evolution-gaming/safe-akka
 - evolution-gaming/scache
 - evolution-gaming/scassandra
 - evolution-gaming/sequentially
@@ -352,7 +355,6 @@
 - evolution-gaming/skafka
 - evolution-gaming/smetrics
 - evolution-gaming/sstream
-- evolution-gaming/stracer
 - evolution-gaming/throttler
 - Facsimiler/facsimile
 - felher/beminar
