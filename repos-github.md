@@ -326,8 +326,8 @@
 - evolution-gaming/akka-http-documenteddsl
 - evolution-gaming/akka-http-play-json
 - evolution-gaming/akka-serialization
-- evolution-gaming/akka-to-pekko-adapter
 - evolution-gaming/akka-tools
+- evolution-gaming/akka-to-pekko-adapter
 - evolution-gaming/cassandra-sync
 - evolution-gaming/cats-helper
 - evolution-gaming/conhub
