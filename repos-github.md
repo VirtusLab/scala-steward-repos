@@ -1136,6 +1136,7 @@
 - sritchie/scala-rl
 - stac-utils/stac4s
 - stivens/CaseComplete
+- stivens/Lexmechanic
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
 - stryker-mutator/weapon-regex
