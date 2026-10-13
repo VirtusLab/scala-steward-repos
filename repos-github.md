@@ -909,7 +909,6 @@
 - sageserpent-open/americium
 - sageserpent-open/kineticMerge
 - sagifogel/Proptics
-- sake92/hepek
 - samueleresca/pekko-quartz-scheduler
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
