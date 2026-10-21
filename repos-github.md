@@ -437,6 +437,7 @@
 - ing-bank/baker
 - inoio/solrs
 - intracer/scalawiki
+- io-github-nafg/simple-form
 - iRevive/sbt-integration-env
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
@@ -654,10 +655,13 @@
 - nafg/cloud-logging-logback-scala
 - nafg/css-dsl
 - nafg/jewish-date
+- nafg/maaser-tracker
 - nafg/mergify-yaml
+- nafg/mill-bundler
 - nafg/scalac-options
 - nafg/scalajs-facades
 - nafg/scalajs-react-util
+- nafg/scala-grist
 - nafg/scala-phonenumber
 - nafg/scheduler
 - nafg/simpleivr
@@ -665,6 +669,8 @@
 - nafg/slick-additions
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
+- nafg/sloth-apimodule
+- nafg/st-antd
 - NakajoLab/B4SMT
 - naoh87/lettucef
 - nau/scalus
