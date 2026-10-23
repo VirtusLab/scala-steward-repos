@@ -1276,8 +1276,13 @@
 - vladimirlogachev/exercises-fp-strategies-in-scala-with-cats
 - vladimirlogachev/page-title-reader-microservice
 - vladimirlogachev/transitive-closure
+- vlovgr/aws-regions
+- vlovgr/cats-parse-phc
 - vlovgr/ciris
+- vlovgr/http4s-aws
+- vlovgr/http4s-karapace
 - vlovgr/jots
+- vlovgr/spies
 - vmunier/akka-http-scalajs.g8
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
