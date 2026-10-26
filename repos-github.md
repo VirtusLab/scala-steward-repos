@@ -504,6 +504,7 @@
 - kitlangton/parallel-for
 - kitlangton/quotidian
 - klassic/klassic
+- klaeufer/scrai-scala
 - kmizu/jsonda
 - kmizu/matlike
 - koju/local-expats
