@@ -503,8 +503,8 @@
 - kitlangton/neotype
 - kitlangton/parallel-for
 - kitlangton/quotidian
-- klassic/klassic
 - klaeufer/scrai-scala
+- klassic/klassic
 - kmizu/jsonda
 - kmizu/matlike
 - koju/local-expats
