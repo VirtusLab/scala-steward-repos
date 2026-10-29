@@ -1232,6 +1232,7 @@
 - tulz-app/laminext
 - tulz-app/tuplez
 - tumakha/play3-scala3-seed
+- tumakha/play3-sbt2-seed
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
