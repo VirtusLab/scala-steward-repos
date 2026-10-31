@@ -398,6 +398,7 @@
 - ghostdogpr/proteus
 - ghostdogpr/purelogic
 - ghostdogpr/sage
+- ghostdogpr/shard
 - gnieh/diffson
 - gnieh/fs2-data
 - goodcover/fdb-client
