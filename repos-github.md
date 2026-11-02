@@ -52,6 +52,7 @@
 - almond-sh/almond
 - alonsodomin/cron4s
 - alonsodomin/kamon-cloudwatch
+- alonsodomin/sbt-prompt
 - AmadeusITGroup/sbt-release-notes
 - andreamarcolin/oidc4s
 - andreum/process-resource
