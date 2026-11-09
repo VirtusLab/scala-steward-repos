@@ -1146,6 +1146,7 @@
 - stac-utils/stac4s
 - stivens/CaseComplete
 - stivens/Lexmechanic
+- stivens/taxxo4s
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
 - stryker-mutator/weapon-regex
