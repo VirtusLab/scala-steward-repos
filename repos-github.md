@@ -653,6 +653,7 @@
 - mukhtar1227ali/Poker_2
 - mvillafuertem/scala
 - mvillafuertem/scalcite
+- mwz/structurizr-mkdocs-generatr
 - nachinius/fp-scala-template
 - nachinius/starter.g8
 - nafg/cloud-logging-logback-scala
