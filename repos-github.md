@@ -1121,7 +1121,6 @@
 - scala-ts/scala-ts
 - scala/hello-world.g8
 - scala/make-release-notes
-- scala/publish
 - scala/sbt-scala-module
 - scala/scala
 - scala/scala3.g8
@@ -1139,6 +1138,7 @@
 - scala/scala-library-next
 - scala/scala-parallel-collections
 - scala/scala-parser-combinators
+- scala/scala-publish
 - scala/scala-seed.g8
 - scala/scala-swing
 - scala/scala-xml
