@@ -1311,6 +1311,8 @@
 - whiplash/slussen
 - windymelt/ak4-lambda
 - windymelt/cdp-scala
+- windymelt/comport
+- windymelt/z3s
 - windymelt/zmm
 - wiringbits/my-photo-timeline
 - wiringbits/sjs-material-ui-facade
