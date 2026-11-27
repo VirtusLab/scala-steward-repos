@@ -642,6 +642,7 @@
 - kubukoz/calico-template
 - kubukoz/smithy4s-codegen-ui
 - kubukoz/smithy-playground
+- kubukoz/smithy-selector-playground
 - kubukoz/smithy-transcoder
 - kubukoz/spotify-next
 - kubukoz/stretch-the-kin
